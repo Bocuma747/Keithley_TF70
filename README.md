@@ -9,17 +9,16 @@ The header pins are generic right-angle header pins with 0.1" (2.54mm) pitch, th
 
 Original resistor network, exposed and labeled to show the inner resistors and pin numbers:
 
-![Original resistor network](https://github.com/Bocuma747/Keithley_TF70/assets/19875665/d8701e90-9683-452d-b6ab-ade13913abed)
+![Original resistor network](https://github.com/Bocuma747/Keithley_TF70/assets/19875665/3b43cd42-4222-48a4-ad2c-db9e155d49d6)
 
 
 Schematic:
 
-![Schematic](https://github.com/Bocuma747/Keithley_TF70/assets/19875665/b571eb07-c515-4122-bdea-30bf7b1e4272)
+![Schematic](https://github.com/Bocuma747/Keithley_TF70/assets/19875665/b1d919b1-03ed-46b1-b40b-351423b4f8b3)
 
 
 Replacement:
 
-![PCB](https://github.com/Bocuma747/Keithley_TF70/assets/19875665/1c6a6abd-c9d8-4f53-839e-ae4a648f72fc)
+![Replacement PCB](https://github.com/Bocuma747/Keithley_TF70/assets/19875665/77558a71-d747-48dd-8301-291355b369de)
 
-
-![PCB installed](https://github.com/Bocuma747/Keithley_TF70/assets/19875665/709716fe-c20e-4e65-99f0-191fd651bfda)
+![PCB_installed](https://github.com/Bocuma747/Keithley_TF70/assets/19875665/c4425e6b-de8d-477f-a2c5-dcbedaeeb119)
