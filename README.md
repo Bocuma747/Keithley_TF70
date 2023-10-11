@@ -5,6 +5,7 @@ A drop-in replacement PCB for the Keithley TF-70 resistor network found in Keith
 Bill of materials is located in BOM.csv. For maximum performance, I recommend 0.1% tolerance resistors with the lowest temperature coefficient available.
 The header pins are generic right-angle header pins with 0.1" (2.54mm) pitch, the same as on breadboards.
 
+The PCB can be ordered from any of the usual PCB fabs by uploading Gerber.zip. No special requirements should be necessary.
 
 
 Original resistor network, exposed and labeled to show the inner resistors and pin numbers:
